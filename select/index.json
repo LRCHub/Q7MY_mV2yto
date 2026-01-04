@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "貴方だけが、幸せでありますように。/アメリカ民謡研究会",
+  "base_artist": "アメリカ民謡研究会",
+  "createdAt": "2026-01-04T16:12:53.081716Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "貴方だけが、幸せでありますように。",
+      "artist": "アメリカ民謡研究会",
+      "has_synced": false,
+      "path": "select/pl_01_貴方だけが、幸せでありますように。_アメリカ民謡研究会.txt"
+    }
+  ]
+}
